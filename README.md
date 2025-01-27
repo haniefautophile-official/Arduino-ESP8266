@@ -18,4 +18,5 @@ https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_i
   <li>Langkah keenam masih di tools > Port > Pilih Port Yg sesuai yg ada ada di device manager.</li>
   <li>Langkah ketujuh klik upload dengan mengklik icon panah arah ke kanan, dan tunggu sampai selesai dan perhatikan indexing yg ada di pojok bawah kiri yg sedang berjalan. Jika selesai indexing maka close saja semuanya dan pindai wifi maka akan ada nama wifi pawned. Password wifi (deauther).</li>
   <li>Coba buka browser dan masukan alamat ip 192.168.4.1 dan akan di arahkan ke tampilan web arduino.</li>
+  <p>Selamat menikmati fitur-fitur menyenangkan di sana.</p>
   </details>
